@@ -1,0 +1,10 @@
+AU2 = Outer Brow Raiser
+AU4 = Brow Lowerer
+AU5 = Upper Lid Raiser
+AU9 = Nose Wrinkler
+AU12 = Lip Corner Puller
+AU15 = Lip Corner Depressor
+AU53 = Head Up
+AU54 = Head Down
+AU55 = Head Tilt Left
+AU56 = Head Tilt Right
